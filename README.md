@@ -1,2 +1,2 @@
 # tsp
-Travel Salesman Problem
+Traveling Salesman Problem
